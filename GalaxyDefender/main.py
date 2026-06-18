@@ -177,7 +177,7 @@ async def main():
             window.blit(text_ammo, (10, 110))
 
         display.update()
-        clock.tick(60)
+        clock.tick(20)  # Sesuai time.delay(50) asli = 20 FPS
         await asyncio.sleep(0)  # Required for pygbag to work in browser
 
 # Start the game
