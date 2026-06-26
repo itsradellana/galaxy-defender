@@ -14,7 +14,7 @@ A 2D space shooter built with Python and Pygame. Pilot a rocket, shoot down UFOs
 
 <div align="center">
   <p>
-    <video controls muted src="https://github.com/itsradellana/galaxy-defender/raw/main/demo.mov" width="100%"></video>
+    <video controls muted src="https://github.com/itsradellana/galaxy-defender/raw/main/demo.mp4" width="100%"></video>
   </p>
 </div>
 
@@ -78,7 +78,7 @@ All asset files (sprites and audio) must stay alongside `shooter_game.py`.
 
 ```
 galaxy-defender/
-├── demo.mov           # Gameplay demo
+├── demo.mp4           # Gameplay demo
 ├── shooter_game.py    # Game logic (single file)
 ├── README.md
 ├── LICENSE
