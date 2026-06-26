@@ -10,6 +10,14 @@ A 2D space shooter built with Python and Pygame. Pilot a rocket, shoot down UFOs
 
 ---
 
+## Demo
+
+<video src="demo.mov" controls width="100%"></video>
+
+> _Gameplay demo — rocket controls, UFO shooting, reload mechanic, and win condition._
+
+---
+
 ## Features
 
 - **Arcade shooting** — destroy UFOs with a 7-bullet magazine and a 3-second reload cooldown
@@ -66,6 +74,7 @@ All asset files (sprites and audio) must stay alongside `shooter_game.py`.
 
 ```
 galaxy-defender/
+├── demo.mov           # Gameplay demo
 ├── shooter_game.py    # Game logic (single file)
 ├── README.md
 ├── LICENSE
